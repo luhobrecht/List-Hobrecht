@@ -1,0 +1,35 @@
+h1 {
+    font-weight: 900;
+    color: #f3f3f3;
+}
+
+li {
+    /* color:#f3f3f3; */
+    list-style: none;
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+.g {
+    color: rgb(230, 65, 65);
+}
+
+.r {
+    color:rgb(239, 239, 45)
+}
+
+.s {
+    color: rgb(10, 92, 10)
+}
+
+.h {
+    color:rgb(19, 19, 97)
+}
+
+.griffindor {
+    font-weight: 400;
+}
+
+.other {
+    font-weight: 100;
+}
